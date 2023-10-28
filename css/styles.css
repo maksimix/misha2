@@ -14,7 +14,7 @@ html {
 }
 
 
-@media (max-width: 725px) {
+@media (max-width: 414px) {
     main {
         display: none;
         opacity: 1;
