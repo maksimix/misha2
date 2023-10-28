@@ -39,8 +39,8 @@ html {
         display: flex;
         justify-content: center;
 
-        height: 896px;
-        width: 414px;
+        height: 100vh;
+        width: 100ww;
         align-items: center;
         opacity: 1;
         transition: opacity 1s;
