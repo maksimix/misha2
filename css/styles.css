@@ -1,6 +1,6 @@
 
-html, body {width: auto!important; overflow-x: hidden!important} 
 
+html, body {width:100% }
 html {
     box-sizing: border-box;
 
