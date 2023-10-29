@@ -215,8 +215,8 @@ bottom: 0px;
       } */ 
       
       .image-container {
-        width: 448.005px;
-height: 712.962px;
+        width: 428.005px;
+height: 692.962px;
         overflow: hidden;
         position: relative;
         margin-bottom: 0;
@@ -228,8 +228,8 @@ height: 712.962px;
       }
       
       .swipe-image {
-        width: 448.005px;
-height: 712.962px;
+        width: 428.005px;
+height: 692.962px;
         object-fit: cover;
         transform-origin: center;
         transition: transform 0.3s ease;
@@ -242,8 +242,8 @@ height: 712.962px;
         position: absolute;
         top: 0;
         left: 0;
-       width: 448.005px;
-height: 712.962px;
+      width: 428.005px;
+height: 692.962px;
      
         background: url('background.jpg') no-repeat;
         background-size: cover;
