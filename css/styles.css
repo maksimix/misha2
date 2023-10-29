@@ -3,7 +3,8 @@
 
 html {
     box-sizing: border-box;
-
+ overflow-x: hidden;
+        overflow-y: hidden;
 }
 
 
@@ -15,7 +16,9 @@ html {
 
 
 @media (max-width: 41234px) {
-    html, body {width:100% }
+    html, body {width:100%;
+                overflow-x: hidden;
+        overflow-y: hidden;}
     main {
         display: none;
         opacity: 1;
@@ -219,7 +222,7 @@ bottom: 0px;
 height: 652.962px;
         overflow: hidden;
         position: relative;
-        margin-bottom: 0;
+        margin-bottom: 10px;
       }
       
       .image-slider {
