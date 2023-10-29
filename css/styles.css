@@ -192,7 +192,7 @@ bottom: 0px;
 
     .image-container{
 
-        margin-bottom: 50px;
+        margin-bottom: 150px;
     }
     .yes__no__block{
         display: flex;
@@ -215,8 +215,8 @@ bottom: 0px;
       } */ 
       
       .image-container {
-        width: 334.103px;
-        height: 507.277px;
+        width: 448.005px;
+height: 712.962px;
         overflow: hidden;
         position: relative;
         margin-bottom: 0;
@@ -228,8 +228,8 @@ bottom: 0px;
       }
       
       .swipe-image {
-        width: 334.103px;
-        height: 507.277px;
+        width: 448.005px;
+height: 712.962px;
         object-fit: cover;
         transform-origin: center;
         transition: transform 0.3s ease;
@@ -242,8 +242,8 @@ bottom: 0px;
         position: absolute;
         top: 0;
         left: 0;
-        width: 334.103px;
-        height: 507.277px;
+       width: 448.005px;
+height: 712.962px;
      
         background: url('background.jpg') no-repeat;
         background-size: cover;
