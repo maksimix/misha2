@@ -222,7 +222,7 @@ bottom: 0px;
 height: 652.962px;
         overflow: hidden;
         position: relative;
-        margin-bottom: 10px;
+        margin-bottom: 20px;
            overflow-x: hidden;
         overflow-y: hidden;
       }
@@ -230,7 +230,7 @@ height: 652.962px;
       .image-slider {
         display: flex;
         white-space: nowrap;
-           overflow-x: hidden;
+        overflow-x: hidden;
         overflow-y: hidden;
       }
       
