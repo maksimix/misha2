@@ -19,8 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
 function swipeBlock(){
 
 
-  
-  const swipeImages = document.querySelectorAll('.swipe-image');
+ const swipeImages = document.querySelectorAll('.swipe-image');
 let isDragging = false;
 let initialX = 0;
 let offsetX = 0;
@@ -44,7 +43,7 @@ swipeImages.forEach((image) => {
       isDragging = false;
       image.style.transition = 'transform 0.3s ease';
       
-      if (offsetX < -image.offsetWidth) {
+      if (Math.abs(offsetX) > image.offsetWidth / 2) {
         image.remove();
       } else {
         image.style.transform = 'translateX(0) rotate(0deg)';
