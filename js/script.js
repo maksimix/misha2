@@ -102,12 +102,7 @@ function toggleElementVisibility(element) {
     }
 
 swipeBlock();
-if (window.devicePixelRatio !== 1) { // Костыль для определения иных устройств, с коэффициентом отличным от 1		
-  var dpt = window.devicePixelRatio;
-  var widthM = window.screen.width * dpt;
-  var widthH = window.screen.height * dpt;
-  document.write('<meta name="viewport" content="width=' + widthM+ ', height=' + widthH + '">');
-}
+
     // Вызовите функцию после задержки в 2 секунды
     setTimeout(hideSection, 2000); // 2000 миллисекунд (2 секунды)
     setTimeout(removeSection, 3000); // 2000 миллисекунд (2 секунды)
