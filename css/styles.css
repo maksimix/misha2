@@ -1,6 +1,6 @@
 
 
-html, body {width:100% }
+
 html {
     box-sizing: border-box;
 
@@ -15,6 +15,7 @@ html {
 
 
 @media (max-width: 41234px) {
+    html, body {width:100% }
     main {
         display: none;
         opacity: 1;
