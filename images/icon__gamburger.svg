@@ -1,6 +1,6 @@
-<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="22" cy="22" r="22" fill="#F3F5DB"/>
-<line x1="9" y1="17.5" x2="34" y2="17.5" stroke="black" stroke-opacity="0.7"/>
-<line x1="9" y1="23.5" x2="29" y2="23.5" stroke="black" stroke-opacity="0.7"/>
-<line x1="9" y1="28.5" x2="22" y2="28.5" stroke="black" stroke-opacity="0.7"/>
+<svg width="67" height="68" viewBox="0 0 67 68" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="33.4783" cy="34" r="33.4783" fill="#F3F5DB"/>
+<line x1="16" y1="25.5" x2="53.5" y2="25.5" stroke="black" stroke-opacity="0.7"/>
+<line x1="16" y1="35.0455" x2="46" y2="35.0455" stroke="black" stroke-opacity="0.7"/>
+<line x1="16" y1="43" x2="35.5" y2="43" stroke="black" stroke-opacity="0.7"/>
 </svg>
