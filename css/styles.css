@@ -223,11 +223,15 @@ height: 652.962px;
         overflow: hidden;
         position: relative;
         margin-bottom: 10px;
+           overflow-x: hidden;
+        overflow-y: hidden;
       }
       
       .image-slider {
         display: flex;
         white-space: nowrap;
+           overflow-x: hidden;
+        overflow-y: hidden;
       }
       
       .swipe-image {
@@ -255,6 +259,8 @@ height: 652.962px;
       
       .image-container::-webkit-scrollbar {
         display: none;
+           overflow-x: hidden;
+        overflow-y: hidden;
       }
 
 
